@@ -1,0 +1,11 @@
+{
+    "name": "digimix/gravityplus-google-analytics-ecommerce-tracking",
+    "description": "Private repo for loading the Gravity Plus Google Analytics E-commerce Tracking WordPress plugin via Composer.",
+    "type": "wordpress-plugin",
+    "require": {
+        "php": ">=5.5"
+    },
+    "version": "1.0.0",
+    "keywords": ["wordpress"],
+    "homepage": "https://www.gravityhelp.com/downloads/"
+    }
